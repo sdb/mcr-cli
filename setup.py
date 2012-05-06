@@ -12,7 +12,7 @@ setup(
     author=mcr.__author__,
     author_email='stefan@ellefant.be',
     url='http://sdb.github.com/mcr-cli',
-    long_description=read('README'),
+    long_description=read('README.rst'),
     license=mcr.__license__,
     packages=find_packages(),
     entry_points={
